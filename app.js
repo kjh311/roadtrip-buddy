@@ -1,1 +1,1 @@
-$(document).ready(function(){});
+var app=angular.module("myApp",["ngRoute"]);app.controller("myCtrl",["$scope","$http",function(n,e,o){n.name="Kevin"}]),$(document).ready(function(){});

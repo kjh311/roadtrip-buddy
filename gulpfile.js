@@ -29,9 +29,9 @@ var imagemin      = require('gulp-imagemin');
 // Uncomment for stylus or less
 gulp.task('watch', function(){
   gulp.watch('work_here/stylesheets/scss/*.scss', ['sass']);
-  gulp.watch('work_here/stylesheets/stylus/*.styl', ['stylus']);
-  gulp.watch('work_here/stylesheets/less/*.less', ['less']);
-  gulp.watch('*.js', ['jshint']);
+  // gulp.watch('work_here/stylesheets/stylus/*.styl', ['stylus']);
+  // gulp.watch('work_here/stylesheets/less/*.less', ['less']);
+  // gulp.watch('*.js', ['jshint']);
   gulp.watch('work_here/js/*.js', ['scripts']);
   // gulp.watch('work_here/images/*', ['image']);
   // reloads browser

@@ -9,26 +9,3 @@ $scope.name = 'Kevin';
 
 
 }]);
-
-// JQUERY WORKS!
-$( document ).ready(function() {
-    // alert( "ready!" );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-});
