@@ -16,9 +16,17 @@ body{
   background-color: $lightBlue !important;
   width: 100%;
 }
+.navbar-brand{
+  text-align: center;
+  font-family: 'Baloo Thambi', cursive;
+  font-size: 3em;
+}
 #map{
   width: 100%;
   border: 2px solid black;
   height: 600px;
-  background-color: grey;
+  // background-color: grey;
+  background-image: url("/img/road-trip-background2.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
