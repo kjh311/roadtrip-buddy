@@ -1,4 +1,4 @@
-#Creating a RoadTrip App that finds Breweries, National Parks, Attractions, Hotels, and Campsites along a specified route using Google Maps.
+#Creating a RoadTrip App that finds Breweries, National Parks, Attractions, Hikes, Hotels, and Campsites along a specified route using Google Maps.
 
 
 

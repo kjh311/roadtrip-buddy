@@ -1,3 +1,5 @@
+$lightBlue: #00BFFF;
+
 body{
   font-size: 16px;
   // background-color: white;
@@ -5,4 +7,18 @@ body{
 }
 .container-fluid{
   // background-color: red;
+}
+.nav-icon{
+  width: 30px;
+  margin: 5px;
+}
+.navbar{
+  background-color: $lightBlue !important;
+  width: 100%;
+}
+#map{
+  width: 100%;
+  border: 2px solid black;
+  height: 600px;
+  background-color: grey;
 }
